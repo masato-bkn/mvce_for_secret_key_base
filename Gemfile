@@ -43,7 +43,7 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
-  gem 'parallel_tests', '4.7.2'
+  gem 'parallel_tests', '4.8.0'
 end
 
 group :development do
